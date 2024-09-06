@@ -28,9 +28,6 @@ Observações:
 
 Base de dados: A aplicação utiliza um arquivo JavaScript (dados.js) para armazenar os dados dos atletas.
 Melhorias futuras: Estamos sempre pensando em novas funcionalidades para deixar a aplicação ainda mais completa.
-Dúvidas?
-
-Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub ou me mandar um e-mail: giovanna.vie95@atletas.com
 
 Vamos juntos torcer pelo Brasil!
 
